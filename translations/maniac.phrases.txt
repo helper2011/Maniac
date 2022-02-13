@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"Current sprint"
+	{
+		"ru"	"Спринт"
+		"en"	"Sprint"
+	}
+}

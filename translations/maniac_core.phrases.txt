@@ -1,0 +1,79 @@
+"Phrases"
+{
+	"Tag"
+	{
+		"ru"	"{C}4C59D8[Маньяк] {C}FFE940"
+		"en"	"{C}4C59D8[Maniac] {C}FFE940"
+
+	}
+	"Tag 2"
+	{
+		"ru"	"[Маньяк]"
+		"en"	"[Maniac]"
+
+	}
+
+	"Players was moved to maniacs"
+	{
+		"#format"	"{1:s}"
+		"ru"	"В следующем раунде маньяками будут: {C}FFA840{1}"
+		"en"	"In the next round, the maniacs will be: {C}FFA840{1}"
+	}
+	"Player was moved to maniacs"
+	{
+		"#format"	"{1:s}"
+		"ru"	"В следующем раунде маньяком будет: {C}FFA840{1}"
+		"en"	"In the next round, the maniac will be: {C}FFA840{1}"
+	}
+	
+	"This client is unavailbale"
+	{
+		"ru"	"Данный игрок недоступен."
+		"en"	"This player is unavailable."
+	}
+	"Players was moved from maniacs"
+	{
+		"#format"	"{1:s}"
+		"ru"	"{1} были перемещены за КТ"
+		"en"	"{1} were moved for CT"
+	}
+	"Player was moved from maniacs"
+	{
+		"#format"	"{1:s}"
+		"ru"	"{1} был перемещен за КТ"
+		"en"	"{1} was moved for CT"
+	}
+	"You moved to another team by admin"
+	{
+		"#format"	"{1:N},{2:s}"
+		"ru"	"{C}FFA840{1}: {C}FFE940Вы были перемещены за команду {C}FFA840{2}"
+		"en"	"{C}FFA840{1}: {C}FFE940You were moved for the CT team {C}FFA840{2}"
+	}
+	"You dont leave T command"
+	{
+		"ru"	"Вы не можете покинуть свою команду, играя за маньяка"
+		"en"	"You can't leave your team playing for a maniac"
+	}
+	"You dont join to T command"
+	{
+		"ru"	"Вы не можете зайти за маньяка, т.к. это вызовет дисбаланс (или вы уже играли, ждите очередь)."
+		"en"	"You can't go for a maniac, because this will cause an disbalance (or you have already played, wait for the queue)."
+	}
+	"You dont move to spec when round is end"
+	{
+		"ru"	"Вы не можете выходить в наблюдение во время завершения раунда"
+		"en"	"You can't go out for observation during the end of a round"
+	}
+	"You dont self kill when for maniac"
+	{
+		"ru"	"Вы не можете самоуничтожиться, играя за маньяка"
+		"en"	"You can't self-destruct by playing as a maniac"
+	}
+	"Show client position in queue list"
+	{
+		"#format"	"{1:i},{2:i}"
+		"ru"	"Привет! Ты находишься на {C}FFA840{1}{C}FFE940/{C}FFA840{2} {C}FFE940месте в очереди на маньяка"
+		"en"	"Hi! You are in {C}FFA840{1}{C}FFE940/{C}FFA840{2} {C}FFE940place in the queue for a maniac
+	
+	}
+}

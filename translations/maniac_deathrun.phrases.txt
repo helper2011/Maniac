@@ -1,0 +1,25 @@
+"Phrases"
+{
+	"You have been resurrected!"
+	{
+		"ru"	"Вы были воскрешены!"
+		"en"	"You have been resurrected!"
+	}
+	"You got the scout!"
+	{
+		"ru"	"Вы получили скаут!"
+		"en"	"You got the scout!"
+	}
+	"Auto-respawn will be disabled after"
+	{
+		"#format"	"{1:i}"
+		"ru"	"Авто-респаун отключится через {1} сек."
+		"en"	"Auto-respawn will be disabled after {1} seconds"
+	}
+	"Auto-respawn was disabled"
+	{
+		"ru"	"Авто-респаун был отключен."
+		"en"	"Auto-respawn was disabled."
+	
+	}
+}
